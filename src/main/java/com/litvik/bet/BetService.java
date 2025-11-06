@@ -36,7 +36,7 @@ public class BetService {
         if (car == null) {
             return Map.copyOf(bets);
         } else {
-            return Map.of(carTitle, bets.get(car.getValue()));
+            return Map.of(car.getValue(), bets.get(car.getValue()));
         }
     }
 }
