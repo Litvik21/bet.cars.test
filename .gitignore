@@ -1,6 +1,8 @@
 *
 
 !.gitignore
+!Logo.png
+!logo-bet.png
 !README.md
 !pom.xml
 !src/
