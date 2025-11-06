@@ -1,6 +1,7 @@
 *
 
 !.gitignore
-!src/
-!pom.xml
 !README.md
+!pom.xml
+!src/
+!src/**
